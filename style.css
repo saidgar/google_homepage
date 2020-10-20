@@ -27,6 +27,7 @@ footer {
     bottom: 0px;
     background-color: lightgray;
     width: 100%;
+    left: 0px;
 }
 #country {
     border: 1px solid;
