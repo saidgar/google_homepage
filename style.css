@@ -1,0 +1,38 @@
+#email {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    
+}
+#sign {
+    background-color: blue;
+    color: white;
+}
+#logo {
+    display: flex;
+    justify-content: center;
+}
+#search {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+#test {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+footer {
+    position: absolute;
+    bottom: 0px;
+    background-color: lightgray;
+    width: 100%;
+}
+#country {
+    border: 1px solid;
+}
+#links {
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+}
